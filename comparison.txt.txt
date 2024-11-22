@@ -1,0 +1,2 @@
+The first change: adding a new feature, which is the navigation bar.
+The second change: fixing the bug, which is correcting the spelling error.
